@@ -1,0 +1,5 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Cognome;Nome;SecondoNome;Prefisso;Suffisso
+FN:Nome visualizzato
+END:VCARD
